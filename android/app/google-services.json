@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404363082130",
+    "project_id": "ktra-36b1b",
+    "storage_bucket": "ktra-36b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404363082130:android:8c4405e53bd41cc331e94b",
+        "android_client_info": {
+          "package_name": "thoa1.example.ktra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404363082130-7d65cvi9lnb0a7b0p374rh3bisp63tnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLWZGeLtZwWGWLh-TYnMAiaJaSCsqSOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404363082130-7d65cvi9lnb0a7b0p374rh3bisp63tnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
